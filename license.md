@@ -1,4 +1,6 @@
 ﻿Copyright (c) Microsoft Corporation.  Distributed under the following terms:
+
+foo
  
 1. Microsoft and any contributors to this project each grants you a license, under its respective copyrights, to the Microsoft Azure Documentation under the [Creative Commons Attribution 3.0 United States License](http://creativecommons.org/licenses/by/3.0/us/legalcode).  In addition, with respect to any sample code contained in the documentation, Microsoft and any such contributors grants you an additional license, under its respective intellectual property rights, to use the code to develop or design your software for Microsoft Azure.
  
